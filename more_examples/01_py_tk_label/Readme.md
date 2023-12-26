@@ -1,5 +1,16 @@
 https://docs.python.org/3/library/tkinter.html
-```
+
+**YOUTUBE:**
+
+[https://www.youtube.com/watch?v=mop6g-c5HEY](https://www.youtube.com/watch?v=mop6g-c5HEY)
+
+ChatGPT : Create a python tkinter window.
+
+02_tkinter_example.py
+
+![img/img01.png](img/img01.png)
+
+```python
 import tkinter
 from tkinter import ttk
 import random
